@@ -1,2 +1,4 @@
 # Linear-Regression
-It contains a dataset of salary and years of experience on which linear model is applied to find sout how salary is dependent on the number of years work experience.
+Linear Regression model is developed to find salaries of different individuals on the basis of ther experience with respect to years. 
+Two different methods are used which are the following:
+1. Linear Regression model of scikit learn
